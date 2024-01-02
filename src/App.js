@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <header>
         <nav>
-          <a href="">Inicio</a>
+          <a href="">Inici</a>
           <a href="">dark souls 3</a>
           <a href="">dark souls 2</a>
           <a href="">sekiro</a>
